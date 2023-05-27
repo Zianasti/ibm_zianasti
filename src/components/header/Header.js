@@ -61,7 +61,7 @@ class Header extends Component {
                   Education
                 </NavLink>
               </li>
-            
+
               <li>
                 <NavLink
                   to="/contact"

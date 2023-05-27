@@ -30,8 +30,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-
-
   {
     name: "Github",
     link: "https://github.com/Zianasti",
@@ -81,26 +79,17 @@ const skills = {
     {
       title: "Language",
       fileName: "DataScienceImg",
-      skills: [
-        "⚡ Bahasa Indonesia",
-        "⚡ Bahasa Inggris",
-        "⚡ Bahasa Jepang",
-      ],
-      softwareSkills: [
-        
-        
-      ],
+      skills: ["⚡ Bahasa Indonesia", "⚡ Bahasa Inggris", "⚡ Bahasa Jepang"],
+      softwareSkills: [],
     },
-    
+
     {
       title: "Motto",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Don’t be afraid ! If it doesn’t open, it’s not your door ! ⚡" 
+        "⚡ Don’t be afraid ! If it doesn’t open, it’s not your door ! ⚡",
       ],
-      softwareSkills: [
-        
-      ],
+      softwareSkills: [],
     },
     {
       title: "Skill",
@@ -110,7 +99,6 @@ const skills = {
         "⚡ Microsoft Word",
         "⚡ Microsoft Power Point",
         "⚡ Microsoft Excel",
-        
       ],
       softwareSkills: [
         {
@@ -141,7 +129,6 @@ const skills = {
             color: "#217346",
           },
         },
-        
       ],
     },
   ],
@@ -149,9 +136,7 @@ const skills = {
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [
-    
-  ],
+  competitiveSites: [],
 };
 
 const degrees = {
@@ -162,9 +147,7 @@ const degrees = {
       logo_path: "logo_poltekpos.png",
       alt_name: "Poltekpos Indonesia",
       duration: "2020 - Present",
-      descriptions: [
-        " "
-      ],
+      descriptions: [" "],
       website_link: "https://poltekpos.ac.id/",
     },
     {
@@ -173,9 +156,7 @@ const degrees = {
       logo_path: "sman7.png",
       alt_name: "Smantuga",
       duration: "2017 - 2020",
-      descriptions: [
-        " "
-      ],
+      descriptions: [" "],
       website_link: "https://sman7garut.sch.id/",
     },
     {
@@ -184,10 +165,9 @@ const degrees = {
       logo_path: "logosmp.png",
       alt_name: "Nescar",
       duration: "2014 - 2017",
-      descriptions: [
-        " "
-      ],
-      website_link: "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/d0863b14-2cf5-e011-bd4b-7b56d006f34d/",
+      descriptions: [" "],
+      website_link:
+        "https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/d0863b14-2cf5-e011-bd4b-7b56d006f34d/",
     },
     {
       title: "SDN 1 SUKARAME",
@@ -195,9 +175,7 @@ const degrees = {
       logo_path: "logo_sd.png",
       alt_name: "sdn1sukarame",
       duration: "2008 - 2014",
-      descriptions: [
-        " "
-      ],
+      descriptions: [" "],
       website_link: "https://hayusakola.com/view/sdn-1-sukarame-2",
     },
   ],
